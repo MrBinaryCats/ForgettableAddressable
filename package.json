@@ -1,0 +1,25 @@
+{
+  "name": "com.binarycats.forgettableaddressable",
+  "version": "1.0.0",
+  "displayName": "Forgettable Addressable",
+  "description": "This is an example package",
+  "unity": "2019.1",
+  "documentationUrl": "https://github.com/MrBinaryCats/ForgettableAddressable",
+  "licensesUrl": "https://github.com/MrBinaryCats/ForgettableAddressable/blob/main/LICENSE",
+  "dependencies": {
+    "com.unity.addressables": "1.0.0"
+  },
+  "keywords": [
+    "Forgettable",
+    "Addressable",
+    "Addressables",
+    "Existing",
+    "built",
+    "groups"
+  ],
+  "author": {
+    "name": "BinaryCats",
+    "email": "david@binarycats.co.uk",
+    "url": "https://github.com/MrBinaryCats"
+  }
+}
